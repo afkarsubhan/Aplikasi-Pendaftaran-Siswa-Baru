@@ -497,6 +497,7 @@
             android:layout_below="@+id/checkBoxBasket"
             android:layout_marginLeft="120dp"
             android:layout_marginTop="30dp"
+            android:background="@drawable/bgbtn"
             android:text="Daftar"
             android:textColor="@android:color/white" />
 
