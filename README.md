@@ -16,17 +16,17 @@ Penjelasan Aplikasi<h4>
 <h2>Screenshoot Aplikasi <h4>
 
 1. Halaman awal bagian edit text
-  * https://docs.google.com/file/d/0B44Y34C4Bes5TzBadmpiQk1zLUE/view?usp=sharing
+  * ![d1](https://cloud.githubusercontent.com/assets/15699471/18418539/a48a7d58-7872-11e6-9681-f320115adeb5.JPG)
 2. Halaman setelah di scrool view terdapat radio button dan check box
-  * https://docs.google.com/file/d/0B44Y34C4Bes5WXJ6T1dQOW5ocWs/view?usp=sharing
+  * ![d2](https://cloud.githubusercontent.com/assets/15699471/18418547/ccc16f8e-7872-11e6-9dc7-7f8e6d3ed75c.JPG)
 3. Halaman yang akan muncul setelah mendaftar
-  * https://docs.google.com/file/d/0B44Y34C4Bes5di1US1BMRE9oV0E/view?usp=sharing
+  * ![d3](https://cloud.githubusercontent.com/assets/15699471/18418554/df50b362-7872-11e6-9326-2961458c20d2.JPG)
 4. Halaman ketika tidak mengisikan inputan
-  * https://docs.google.com/file/d/0B44Y34C4Bes5LTh6eDNCdFBTODg/view?usp=sharing
+  * ![d4](https://cloud.githubusercontent.com/assets/15699471/18418568/fe65a3f2-7872-11e6-9327-6f7bdd9730f3.JPG)
 5. Halaman saat melakukan pengisian
-  * https://docs.google.com/file/d/0B44Y34C4Bes5bUhvbWZoVElUVjA/view?usp=sharing
+  * ![d5](https://cloud.githubusercontent.com/assets/15699471/18418567/fe659038-7872-11e6-853a-bb663212a30f.JPG)
 6. Halaman setelah mengisi semua data dengan benar dan memilih daftar
-  * https://drive.google.com/file/d/0B44Y34C4Bes5Z2hBZ3lOVDd0MEE/view?usp=sharing
+  * ![d6](https://cloud.githubusercontent.com/assets/15699471/18418569/fe6596e6-7872-11e6-83ad-36f277f3bacc.JPG)
   
   
 <h2> Link File APK <h4>
