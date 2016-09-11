@@ -16,15 +16,15 @@ Penjelasan Aplikasi<h4>
 <h2>Screenshoot Aplikasi <h4>
 
 1. Halaman awal bagian edit text
-  * https://drive.google.com/file/d/0B44Y34C4Bes5TzBadmpiQk1zLUE/view?usp=sharing
+  * https://docs.google.com/file/d/0B44Y34C4Bes5TzBadmpiQk1zLUE/view?usp=sharing
 2. Halaman setelah di scrool view terdapat radio button dan check box
-  * https://drive.google.com/file/d/0B44Y34C4Bes5WXJ6T1dQOW5ocWs/view?usp=sharing
+  * https://docs.google.com/file/d/0B44Y34C4Bes5WXJ6T1dQOW5ocWs/view?usp=sharing
 3. Halaman yang akan muncul setelah mendaftar
-  * https://drive.google.com/file/d/0B44Y34C4Bes5di1US1BMRE9oV0E/view?usp=sharing
+  * https://docs.google.com/file/d/0B44Y34C4Bes5di1US1BMRE9oV0E/view?usp=sharing
 4. Halaman ketika tidak mengisikan inputan
-  * https://drive.google.com/file/d/0B44Y34C4Bes5LTh6eDNCdFBTODg/view?usp=sharing
+  * https://docs.google.com/file/d/0B44Y34C4Bes5LTh6eDNCdFBTODg/view?usp=sharing
 5. Halaman saat melakukan pengisian
-  * https://drive.google.com/file/d/0B44Y34C4Bes5bUhvbWZoVElUVjA/view?usp=sharing
+  * https://docs.google.com/file/d/0B44Y34C4Bes5bUhvbWZoVElUVjA/view?usp=sharing
 6. Halaman setelah mengisi semua data dengan benar dan memilih daftar
   * https://drive.google.com/file/d/0B44Y34C4Bes5Z2hBZ3lOVDd0MEE/view?usp=sharing
   
